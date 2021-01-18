@@ -15,7 +15,7 @@ document.write(`
 									</div>
 
 									<div>
-									<h4>Printact 擁有十多名創科專家及導師，合供擁有超過15年STEM，創科，中小學及高等教育的經驗。
+									<h4>Printact 擁有十多名創科專家及導師，合共擁有超過15年STEM，創科，中小學及高等教育的經驗。
 									</h4>
 									</div>
 							
