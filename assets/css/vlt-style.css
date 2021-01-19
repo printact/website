@@ -10224,6 +10224,7 @@ table thead th
 
 .vlt-display-1,
 cite,
+/* menu font size */
 .vlt-default-navigation .sf-menu > li > a,
 .vlt-comment-item__inner .vlt-comment-content .vlt-comment-header__metas,
 .vlt-review-item__inner .vlt-comment-content .vlt-comment-header__metas,
@@ -10237,7 +10238,7 @@ table thead th,
 .vlt-demo-item__image span.badge
 {
     font-family: Montserrat;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     line-height: 1.45;
 

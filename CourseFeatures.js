@@ -103,34 +103,7 @@ document.write(`
 						</div>
 					</div>
 					<div class="vlt-gap-120"></div>
-					<div class="container position-relative">
-						<!--Particle-->
-						<div class="vlt-particle" data-jarallax-element="100 0" style="max-width: 250px; top: -70px; right: calc(-160px + 15px);"><img src="assets/img/root/particle-01--black.png" alt=""></div>
-						<!--Animation Block-->
-						<div class="vlt-animation-block" data-aos="fade" data-aos-delay="0">
-							<!--Image Slider-->
-							<div class="vlt-image-slider" data-dots="true" data-nav="false">
-								<div class="swiper-container">
-									<div class="swiper-wrapper">
-										<!--Simple Image-->
-										<div class="vlt-simple-image">
-											<div class="vlt-fit-image" style="--size-md: 500px; --size-sm: 100%;"><img src="assets/img/attachment-70.jpg" alt=""></div>
-										</div>
-										<!--Simple Image-->
-										<div class="vlt-simple-image">
-											<div class="vlt-fit-image" style="--size-md: 500px; --size-sm: 100%;"><img src="assets/img/attachment-46.jpg" alt=""></div>
-										</div>
-										<!--Simple Image-->
-										<div class="vlt-simple-image">
-											<div class="vlt-fit-image" style="--size-md: 500px; --size-sm: 100%;"><img src="assets/img/attachment-13.jpg" alt=""></div>
-										</div>
-									</div>
-									<div class="vlt-swiper-pagination vlt-swiper-pagination--style-1"></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="vlt-gap-120"></div>
+					
 				</section>
 
 `);
