@@ -7,8 +7,8 @@ document.write(`
 						<div class="col-lg-4">
 							<!--Widget-->
 							<div class="vlt-widget vlt-widget--white vlt-widget-text">
-								<h5 class="vlt-widget__title vlt-widget__title--white">關於Printact</h5>
-								<p>Air form. Without night one his that open for was above called fifth. Gathered Wherein may Rule tree whose multiply signs appear. That tree us beast gathering moving light days.</p>
+								<h4 class="vlt-widget__title vlt-widget__title--white">關於Printact</h4>
+								<p>Printact 成立於2012年，為香港首間研發3D打印機及自動化系統的初創，並教授自造者技術。<br><br>於2020年，合併42Lab從而成立三大學系：零式科學、自造者學院、深科技學校。</p>
 							</div>
 						</div>
 						<div class="col-lg-4 offset-lg-1">
@@ -18,11 +18,12 @@ document.write(`
 								<ul class="menu">
 									<li><a href="#">首頁</a></li>
 									<li><a href="#">博士團隊</a></li>
+									<li><a href="#">成人課程</a></li>
 									<li><a href="#">線上及到校課程</a></li>
 									<li><a href="#">中學IT創新實驗室</a></li>
-									<li><a href="#">0X2A 生物科技</a></li>
+									<li><a href="#">零式科學</a></li>
 									<li><a href="#">自造者學院</a></li>
-									<li><a href="#">0+1 學校</a></li>
+									<li><a href="#">深科技學校</a></li>
 								</ul>
 							</div>
 						</div>
