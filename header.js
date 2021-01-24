@@ -61,7 +61,7 @@ document.write(`
 														</li>
 													</ul>
 												</li>
-												<!--
+												
 												<li class="menu-item-has-children"><a href="#"><span>成人課程</span></a>
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>創科培訓</span></a>
@@ -78,7 +78,7 @@ document.write(`
 														</li>
 													</ul>
 												</li>
-												-->
+												
 												<li class="menu-item-has-children"><a href="homepage-05_curriculum.html"><span>線上/到校課程</span></a>
 													<ul class="sub-menu">
 <!-- 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
@@ -441,7 +441,7 @@ document.write(`
 										</li>
 									</ul>
 								</li>
-								<!--
+								
 								<li class="menu-item-has-children"><a href="#"><span>成人課程</span></a>
 										<ul class="sub-menu">
 										<li class="menu-item-has-children"><a href="about-us-01.html"><span>創科培訓</span></a>
@@ -458,7 +458,7 @@ document.write(`
 										</li>
 									</ul>
 								</li>
-								-->
+								
 								<li class="menu-item-has-children"><a href="#"><span>線上/到校課程</span></a>
 													<ul class="sub-menu">
 <!-- 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
