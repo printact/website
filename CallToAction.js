@@ -14,8 +14,8 @@ document.write(`
 							<div class="col-md-6 offset-md" style="padding-left: 30px;">
 								<!--Animation Block-->
 								<div class="vlt-animation-block" data-aos="fade" data-aos-delay="100">
-									<h5>辦公地址(香港）：<br> 香港島堅尼地城士美菲路12號祥興大廈10樓</h5><br>
-									<h5>辦公地址(新加坡）需預約： <br>71 Ayer Rajah Crescent, #02-01, Singapore 139951</h5><br>	
+									<h5>辦公地址（香港）：<br> 香港島堅尼地城士美菲路12號祥興大廈10樓</h5><br>
+									<h5>辦公地址（新加坡）需預約： <br>71 Ayer Rajah Crescent, #02-01, Singapore 139951</h5><br>	
 
 									<a href="https://api.whatsapp.com/send?phone=9721314&text=%E6%88%91%E6%83%B3%E6%9F%A5%E8%A9%A2%E6%9C%89%E9%97%9CPrintact%20%E7%9A%84STEM%20/%E6%B7%B1%E7%A7%91%E6%8A%80%E8%AA%B2%E7%A8%8B%E3%80%82" target="_blank">
 										<h5>聯絡電話/Whatsapp: <br> (+852) 9721-1314</h5> <img src="assets/img/whatsapp.png" alt="">	
