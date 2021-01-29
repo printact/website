@@ -245,7 +245,9 @@ document.write(`
 														</li>
 													</ul>
 												</li>
-												<li class="menu-item-has-children"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
+												<li class="menu-item"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
+
+												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="portfolio-01.html"><span>Layouts</span></a>
 															<ul class="sub-menu">
@@ -279,6 +281,9 @@ document.write(`
 														</li>
 													</ul>
 												</li>
+
+												-->
+
 												<!-- <li class="menu-item-has-children"><a href="#"><span>Blog</span></a>
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="blog-01.html"><span>Layouts</span></a>
@@ -479,7 +484,7 @@ document.write(`
 																</li>
 															</ul>
 														</li> -->
-														<li><a href="about-me.html"><span>課程設計及校本課程</span></a></li>
+														<li><a href="curriculum.html"><span>課程設計及校本課程</span></a></li>
 														<li><a href="about-me.html"><span>小學課程</span></a></li>
 														<li><a href="about-me.html"><span>中學課程</span></a></li>
 														<li><a href="about-me.html"><span>SEN課程</span></a></li>
@@ -634,7 +639,9 @@ document.write(`
 													</ul>
 												</li>
 
-												<li class="menu-item-has-children"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
+												<li class="menu-item"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
+													
+												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="portfolio-01.html"><span>Layouts</span></a>
 															<ul class="sub-menu">
@@ -668,6 +675,8 @@ document.write(`
 														</li>
 													</ul>
 												</li>
+
+												-->
 
 <!-- 								<li class="menu-item-has-children left"><a href="#"><span>Shop</span></a>
 									<ul class="sub-menu">
