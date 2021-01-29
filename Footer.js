@@ -30,7 +30,15 @@ document.write(`
 						<div class="col-lg-3">
 							<!--Widget-->
 							<div class="vlt-widget vlt-widget--white vlt-widget-subscribe">
-								<h5 class="vlt-widget__title vlt-widget__title--white">Subscribe</h5>
+								<span class="vlt-widget__title vlt-widget__title--white">聯絡我們</span><br>
+								<span>辦公地址（香港）：<br> 香港島堅尼地城士美菲路12號祥興大廈10樓</span><br><br>
+								<span>辦公地址（新加坡）需預約： <br>71 Ayer Rajah Crescent, #02-01, Singapore 139951</span><br><br>	
+
+								<a href="https://api.whatsapp.com/send?phone=9721314&text=%E6%88%91%E6%83%B3%E6%9F%A5%E8%A9%A2%E6%9C%89%E9%97%9CPrintact%20%E7%9A%84STEM%20/%E6%B7%B1%E7%A7%91%E6%8A%80%E8%AA%B2%E7%A8%8B%E3%80%82" target="_blank">
+									<span>聯絡電話/Whatsapp: <br> (+852) 9721-1314</span> 	
+								</a>
+
+								<!-- 
 								<form class="vlt-subscribe-form vlt-subscribe-form--style-3" action="https://vlthemes.us12.list-manage.com/subscribe/post?u=e2e50705d767dad5bbc30a9ec&amp;id=9d8cc808e9">
 									<div class="d-flex">
 										<input type="email" placeholder="Your Email" name="EMAIL">
@@ -38,9 +46,12 @@ document.write(`
 									</div>
 									<div class="vlt-alert"></div>
 								</form>
-							</div>
+								-->
+
+								</div>
 							<!--Widget-->
-							<div class="vlt-widget vlt-widget--white vlt-widget-html"><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-facebook"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-twitter"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-github"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-behance"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-pinterest"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-instagram"></i></a></div>
+							<!-- <div class="vlt-widget vlt-widget--white vlt-widget-html"><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-facebook"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-twitter"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-github"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-behance"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-pinterest"></i></a><a class="vlt-social-icon vlt-social-icon--style-2" href="#" target="_blank"><i class="fa fa-instagram"></i></a></div>
+						    -->
 						</div>
 					</div>
 				</div>
