@@ -2595,7 +2595,7 @@ table thead th
 .vlt-footer--style-2,
 .vlt-footer--style-3
 {
-    padding: 140px 0;
+    padding: 20px 0;
 
     background-image: url('../img/attachment-04.jpg');
     background-position: center; 
@@ -2707,7 +2707,7 @@ table thead th
 /* Footer: widgetized */
 .vlt-footer--widgetized
 {
-    padding: 120px 0;
+    padding: 20px 0;
 
     background-image: url('../img/attachment-04.jpg');
     background-position: center; 
@@ -2717,7 +2717,7 @@ table thead th
 {
     .vlt-footer--widgetized .vlt-footer-widgets > .row > div > div
     {
-        margin-top: 50px;
+        margin-top: 20px;
     }
     .vlt-footer--widgetized .vlt-footer-widgets > .row > div:first-child > div
     {
@@ -2740,7 +2740,7 @@ table thead th
 {
     .vlt-footer--widgetized .vlt-footer-widgets + .vlt-footer-copyright
     {
-        margin-top: 50px;
+        margin-top: 20px;
     }
 }
 
