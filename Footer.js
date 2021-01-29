@@ -31,11 +31,11 @@ document.write(`
 							<!--Widget-->
 							<div class="vlt-widget vlt-widget--white vlt-widget-subscribe">
 								<h4 class="vlt-widget__title vlt-widget__title--white">聯絡我們</h4><br>
-								<span>辦公地址（香港）：<br> 香港島堅尼地城士美菲路12號祥興大廈10樓</span><br><br>
-								<span>辦公地址（新加坡）需預約： <br>71 Ayer Rajah Crescent, #02-01, Singapore 139951</span><br><br>	
+								<h4>辦公地址（香港）：<br> 香港島堅尼地城士美菲路12號祥興大廈10樓</h4><br><br>
+								<h4>辦公地址（新加坡）需預約： <br>71 Ayer Rajah Crescent, #02-01, Singapore 139951</h4><br><br>	
 
 								<a href="https://api.whatsapp.com/send?phone=9721314&text=%E6%88%91%E6%83%B3%E6%9F%A5%E8%A9%A2%E6%9C%89%E9%97%9CPrintact%20%E7%9A%84STEM%20/%E6%B7%B1%E7%A7%91%E6%8A%80%E8%AA%B2%E7%A8%8B%E3%80%82" target="_blank">
-									<span>聯絡電話/Whatsapp: <br> (+852) 9721-1314</span> 	
+									<h4>聯絡電話/Whatsapp: <br> (+852) 9721-1314</h4> 	
 								</a>
 
 								<!-- 
