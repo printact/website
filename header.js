@@ -102,7 +102,9 @@ document.write(`
 
 													</ul>
 												</li>
-												<li class="menu-item-has-children"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
+												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
+
+													<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
@@ -117,6 +119,8 @@ document.write(`
 														<li><a href="about-me.html"><span>About Me</span></a>
 														</li>
 													</ul>
+													-->
+													
 												</li>
 												<li class="menu-item-has-children"><a href="#"><span>自造者學院</span></a>
 													<ul class="sub-menu">
@@ -493,7 +497,9 @@ document.write(`
 
 													</ul>
 												</li>
-												<li class="menu-item-has-children"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
+												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
+												
+												<!--
 												<ul class="sub-menu">
 													<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 														<ul class="sub-menu">
@@ -508,6 +514,8 @@ document.write(`
 													<li><a href="about-me.html"><span>About Me</span></a>
 													</li>
 												</ul>
+
+												-->
 											</li>
 
 											<li class="menu-item-has-children"><a href="#"><span>自造者學院</span></a>
