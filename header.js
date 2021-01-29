@@ -45,7 +45,7 @@ document.write(`
 														</li>
 													</ul>
 												</li> -->
-												<li class="menu-item-has-children"><a href="team.html"><span>博士團隊</span></a>
+												<li class="menu-item"><a href="team.html"><span>博士團隊</span></a>
 													<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
@@ -379,6 +379,8 @@ document.write(`
 					</div>
 				</header>
 			</div>
+
+
 			<div class="d-lg-none d-sm-block">
 				<header class="vlt-header vlt-header--opaque vlt-header--mobile">
 					<nav class="vlt-navbar vlt-navbar--mobile">
@@ -394,6 +396,7 @@ document.write(`
 							</div>
 						</div>
 					</nav>
+
 					<!--Navigation-->
 					<nav class="vlt-mobile-navigation">
 						<div class="container">
