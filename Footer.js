@@ -16,11 +16,11 @@ document.write(`
 							<div class="vlt-widget vlt-widget--white vlt-widget-nav-menu">
 								<h4 class="vlt-widget__title vlt-widget__title--white">快速鏈結</h4>
 								<ul class="menu">
-									<li><a href="#">首頁</a></li>
-									<li><a href="#">博士團隊</a></li>
-									<li><a href="#">成人課程</a></li>
-									<li><a href="#">線上及到校課程</a></li>
-									<li><a href="#">中學IT創新實驗室</a></li>
+									<li><a href="index.html">首頁</a></li>
+									<li><a href="team.html">博士團隊</a></li>
+									<!-- <li><a href="#">成人課程</a></li> -->
+									<li><a href="curriculum.html">線上及到校課程</a></li>
+									<li><a href="IT-lab">中學IT創新實驗室</a></li>
 									<li><a href="#">零式科學</a></li>
 									<li><a href="#">自造者學院</a></li>
 									<li><a href="#">深科技學校</a></li>
