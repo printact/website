@@ -410,7 +410,9 @@ document.write(`
 					<nav class="vlt-mobile-navigation">
 						<div class="container">
 							<!--Menu-->
+							
 							<ul class="sf-menu">
+							<!--
 								<li class="menu-item-has-children two-columns"><a href="index.html"><span>首頁</span></a>
 									<ul class="sub-menu">
 										<li><a href="homepage-01.html"><span>Homepage 01</span></a>
@@ -439,6 +441,8 @@ document.write(`
 										</li>
 									</ul>
 								</li>
+							-->
+
 								<li class="menu-item"><a href="team.html"><span>博士團隊</span></a>
 									
 									<!--
