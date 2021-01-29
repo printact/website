@@ -30,7 +30,7 @@ document.write(`
 						<div class="col-lg-3">
 							<!--Widget-->
 							<div class="vlt-widget vlt-widget--white vlt-widget-subscribe">
-								<span class="vlt-widget__title vlt-widget__title--white">聯絡我們</span><br>
+								<h4 class="vlt-widget__title vlt-widget__title--white">聯絡我們</h4><br>
 								<span>辦公地址（香港）：<br> 香港島堅尼地城士美菲路12號祥興大廈10樓</span><br><br>
 								<span>辦公地址（新加坡）需預約： <br>71 Ayer Rajah Crescent, #02-01, Singapore 139951</span><br><br>	
 
