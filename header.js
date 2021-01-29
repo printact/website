@@ -45,7 +45,8 @@ document.write(`
 														</li>
 													</ul>
 												</li> -->
-												<li class="menu-item-has-children"><a href="#"><span>博士團隊</span></a>
+												<li class="menu-item-has-children"><a href="team.html"><span>博士團隊</span></a>
+													<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
@@ -60,8 +61,9 @@ document.write(`
 														<li><a href="about-me.html"><span>About Me</span></a>
 														</li>
 													</ul>
+													-->
 												</li>
-												
+												<!--
 												<li class="menu-item-has-children"><a href="#"><span>成人課程</span></a>
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>創科培訓</span></a>
@@ -78,8 +80,8 @@ document.write(`
 														</li>
 													</ul>
 												</li>
-												
-												<li class="menu-item-has-children"><a href="homepage-05_curriculum.html"><span>線上/到校課程</span></a>
+												-->
+												<li class="menu-item-has-children"><a href="curriculum.html"><span>線上/到校課程</span></a>
 													<ul class="sub-menu">
 <!-- 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
@@ -91,7 +93,7 @@ document.write(`
 																</li>
 															</ul>
 														</li> -->
-														<li><a href="about-me.html"><span>課程設計及校本課程</span></a></li>
+														<li><a href="curriculum.html"><span>課程設計及校本課程</span></a></li>
 														<li><a href="about-me.html"><span>小學課程</span></a></li>
 														<li><a href="about-me.html"><span>中學課程</span></a></li>
 														<li><a href="about-me.html"><span>SEN課程</span></a></li>
@@ -100,7 +102,7 @@ document.write(`
 
 													</ul>
 												</li>
-												<li class="menu-item-has-children"><a href="#"><span>零式科學</span></a>
+												<li class="menu-item-has-children"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
@@ -157,7 +159,7 @@ document.write(`
 																	</li>
 																</ul>
 															</li>
-														<li><a href="about-me.html"><span>About Me</span></a>
+														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
 														</li>
 													</ul>
 												</li>
@@ -193,7 +195,7 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>邊緣運算</span></a>
 																</li>
-																<li><a href="about-us-03.html"><span>About Us 03</span></a>
+																<!-- <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
 																</li>
 															</ul>
 														</li>
@@ -203,7 +205,7 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>數據可視化</span></a>
 																</li>
-																<li><a href="about-us-03.html"><span>About Us 03</span></a>
+																<!-- <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
 																</li>
 															</ul>
 														</li>
@@ -223,7 +225,7 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>商業模式設計</span></a>
 																</li>
-																<li><a href="about-us-03.html"><span>About Us 03</span></a>
+																<!--  <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
 																</li>
 															</ul>
 														</li>
@@ -239,7 +241,7 @@ document.write(`
 																</li>
 															</ul>
 														</li>
-														<li><a href="about-me.html"><span>About Me</span></a>
+														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
 														</li>
 													</ul>
 												</li>
@@ -425,7 +427,9 @@ document.write(`
 										</li>
 									</ul>
 								</li>
-								<li class="menu-item-has-children"><a href="#"><span>博士團隊</span></a>
+								<li class="menu-item"><a href="#"><span>博士團隊</span></a>
+									
+									<!--
 									<ul class="sub-menu">
 										<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 											<ul class="sub-menu">
@@ -440,8 +444,9 @@ document.write(`
 										<li><a href="about-me.html"><span>About Me</span></a>
 										</li>
 									</ul>
+									-->
 								</li>
-								
+								<!--
 								<li class="menu-item-has-children"><a href="#"><span>成人課程</span></a>
 										<ul class="sub-menu">
 										<li class="menu-item-has-children"><a href="about-us-01.html"><span>創科培訓</span></a>
@@ -458,9 +463,8 @@ document.write(`
 										</li>
 									</ul>
 								</li>
-								
-								
-								<li class="menu-item-has-children"><a href="#"><span>線上/到校課程</span></a>
+								-->
+								<li class="menu-item-has-children"><a href="curriculum.html"><span>線上/到校課程</span></a>
 													<ul class="sub-menu">
 <!-- 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
@@ -481,7 +485,7 @@ document.write(`
 
 													</ul>
 												</li>
-												<li class="menu-item-has-children"><a href="#"><span>零式科學</span></a>
+												<li class="menu-item-has-children"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
 												<ul class="sub-menu">
 													<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 														<ul class="sub-menu">
@@ -539,7 +543,7 @@ document.write(`
 																	</li>
 																</ul>
 															</li>
-														<li><a href="about-me.html"><span>About Me</span></a>
+														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
 														</li>
 													</ul>
 												</li>
@@ -562,7 +566,7 @@ document.write(`
 															<ul class="sub-menu">
 																<li><a href="about-us-01.html"><span>區塊鏈及加密貨幣</span></a>
 																</li>
-																<li><a href="about-us-01.html"><span>Dapp</span></a>
+																<li><a href="about-us-01.html"><span>DApp</span></a>
 																</li>
 																<li><a href="about-us-02.html"><span>去中心化金融(DeFi)</span></a>
 																</li>
@@ -576,7 +580,7 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>邊緣運算</span></a>
 																</li>
-																<li><a href="about-us-03.html"><span>About Us 03</span></a>
+																<!-- <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
 																</li>
 															</ul>
 														</li>
@@ -622,7 +626,7 @@ document.write(`
 																</li>
 															</ul>
 														</li>
-														<li><a href="about-me.html"><span>About Me</span></a>
+														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
 														</li>
 													</ul>
 												</li>
