@@ -245,7 +245,7 @@ document.write(`
 														</li>
 													</ul>
 												</li>
-												<li class="menu-item-has-children"><a href="#"><span>中學IT創新實驗室 👩‍🔬 </span></a>
+												<li class="menu-item-has-children"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="portfolio-01.html"><span>Layouts</span></a>
 															<ul class="sub-menu">
@@ -631,7 +631,7 @@ document.write(`
 													</ul>
 												</li>
 
-												<li class="menu-item-has-children"><a href="#"><span>中學IT創新實驗室 👩‍🔬 </span></a>
+												<li class="menu-item-has-children"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="portfolio-01.html"><span>Layouts</span></a>
 															<ul class="sub-menu">
