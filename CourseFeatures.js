@@ -1,6 +1,10 @@
 document.write(`
 <section>
 					<div class="vlt-gap-120"></div>
+					<h3 class="text-center">
+						Printact 的課程及教材的特點 
+					</h3>
+					<BR>
 					<div class="container">
 						<div class="row">
 							<div class="col-md-4">
