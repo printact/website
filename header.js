@@ -81,9 +81,9 @@ document.write(`
 													</ul>
 												</li>
 												-->
-												<li class="menu-item-has-children"><a href="curriculum.html"><span>線上/到校課程</span></a>
-													<ul class="sub-menu">
-<!-- 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
+												<li class="menu-item"><a href="curriculum.html"><span>線上/到校課程</span></a>
+												<!--		<ul class="sub-menu">
+ 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
 																<li><a href="about-us-01.html"><span>About Us 01</span></a>
 																</li>
@@ -92,7 +92,7 @@ document.write(`
 																<li><a href="about-us-03.html"><span>About Us 03</span></a>
 																</li>
 															</ul>
-														</li> -->
+														</li> 
 														<li><a href="curriculum.html"><span>課程設計及校本課程</span></a></li>
 														<li><a href="about-me.html"><span>小學課程</span></a></li>
 														<li><a href="about-me.html"><span>中學課程</span></a></li>
@@ -100,7 +100,7 @@ document.write(`
 														<li><a href="about-me.html"><span>資優課程</span></a></li>
 
 
-													</ul>
+													</ul> -->
 												</li>
 												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
 
@@ -122,7 +122,8 @@ document.write(`
 													-->
 													
 												</li>
-												<li class="menu-item-has-children"><a href="#"><span>自造者學院</span></a>
+												<li class="menu-item"><a href="Maker.html"><span>自造者學院</span></a>
+												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>基本工程學</span></a>
 															<ul class="sub-menu">
@@ -163,11 +164,13 @@ document.write(`
 																	</li>
 																</ul>
 															</li>
-														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
+														<li><a href="about-me.html"><span>About Me</span></a> 
 														</li>
 													</ul>
+													-->
 												</li>
-												<li class="menu-item-has-children"><a href="#"><span>深科技學校</span></a>
+												<li class="menu-item-has-children"><a href="DeepTech.html"><span>深科技學校</span></a>
+												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="about-us-01.html"><span>A - 人工智能 🤖 </span></a>
 															<ul class="sub-menu">
@@ -199,7 +202,6 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>邊緣運算</span></a>
 																</li>
-																<!-- <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
 																</li>
 															</ul>
 														</li>
@@ -209,7 +211,6 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>數據可視化</span></a>
 																</li>
-																<!-- <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
 																</li>
 															</ul>
 														</li>
@@ -229,8 +230,7 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>商業模式設計</span></a>
 																</li>
-																<!--  <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
-																</li>
+															
 															</ul>
 														</li>
 														<li class="menu-item-has-children left"><a href="about-us-01.html"><span>低/無編程開發 📱</span></a>
@@ -245,9 +245,9 @@ document.write(`
 																</li>
 															</ul>
 														</li>
-														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
-														</li>
+													
 													</ul>
+												-->
 												</li>
 												<li class="menu-item"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
 
@@ -480,9 +480,9 @@ document.write(`
 									</ul>
 								</li>
 								-->
-								<li class="menu-item-has-children"><a href="curriculum.html"><span>線上/到校課程</span></a>
-													<ul class="sub-menu">
-<!-- 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
+								<li class="menu-item"><a href="curriculum.html"><span>線上/到校課程</span></a>
+								<!-- 					<ul class="sub-menu">
+														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
 																<li><a href="about-us-01.html"><span>About Us 01</span></a>
 																</li>
@@ -491,7 +491,7 @@ document.write(`
 																<li><a href="about-us-03.html"><span>About Us 03</span></a>
 																</li>
 															</ul>
-														</li> -->
+														</li> 
 														<li><a href="curriculum.html"><span>課程設計及校本課程</span></a></li>
 														<li><a href="about-me.html"><span>小學課程</span></a></li>
 														<li><a href="about-me.html"><span>中學課程</span></a></li>
@@ -499,7 +499,7 @@ document.write(`
 														<li><a href="about-me.html"><span>資優課程</span></a></li>
 
 
-													</ul>
+													</ul> -->
 												</li>
 												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
 												
@@ -522,7 +522,8 @@ document.write(`
 												-->
 											</li>
 
-											<li class="menu-item-has-children"><a href="#"><span>自造者學院</span></a>
+											<li class="menu-item"><a href="Maker.html"><span>自造者學院</span></a>
+											<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>基本工程學</span></a>
 															<ul class="sub-menu">
@@ -563,12 +564,13 @@ document.write(`
 																	</li>
 																</ul>
 															</li>
-														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
 														</li>
 													</ul>
+													-->
 												</li>
 
-												<li class="menu-item-has-children"><a href="#"><span>深科技學校</span></a>
+												<li class="menu-item"><a href="DeepTech.html"><span>深科技學校</span></a>
+												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="about-us-01.html"><span>A - 人工智能 🤖 </span></a>
 															<ul class="sub-menu">
@@ -600,7 +602,6 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>邊緣運算</span></a>
 																</li>
-																<!-- <li><a href="about-us-03.html"><span>About Us 03</span></a> -->
 																</li>
 															</ul>
 														</li>
@@ -610,7 +611,6 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>數據可視化</span></a>
 																</li>
-																<li><a href="about-us-03.html"><span>About Us 03</span></a>
 																</li>
 															</ul>
 														</li>
@@ -630,7 +630,6 @@ document.write(`
 																</li>
 																<li><a href="about-us-02.html"><span>商業模式設計</span></a>
 																</li>
-																<li><a href="about-us-03.html"><span>About Us 03</span></a>
 																</li>
 															</ul>
 														</li>
@@ -646,9 +645,10 @@ document.write(`
 																</li>
 															</ul>
 														</li>
-														<!-- <li><a href="about-me.html"><span>About Me</span></a> -->
 														</li>
 													</ul>
+
+												-->
 												</li>
 
 												<li class="menu-item"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
