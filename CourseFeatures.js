@@ -80,10 +80,10 @@ document.write(`
 									<div class="vlt-services vlt-services--top-center">
 										<div class="vlt-services__icon"><i class="leedo-website"></i></div>
 										<div class="vlt-services__content">
-											<h4 class="vlt-services__title"><a href="service-single.html"><span class="vlt-highlight">線上及線下<br>獨立或混合模式</span></a>
+											<h4 class="vlt-services__title"><a href="service-single.html"><span class="vlt-highlight">線上(COVID-Proof)及<br>線下獨立或混合模式</span></a>
 											</h4>
 											<p class="vlt-services__text">
-											由於Printact 以獨有模組設計課程及教材內容，輔以大量的例子及練習，加上影片/動畫多媒體幫助，學生可以不斷重覆點播課堂重溫，所以我們的課程適用於線上及線下獨立或混合模式教授。
+											由於Printact 以獨有模組設計課程及教材內容，輔以大量的例子及練習，加上影片/動畫多媒體幫助，學生可以不斷重覆點播課堂重溫，所以我們的課程適用於線上及線下獨立或混合模式教授，亦適用於疫情下以遙距授課。
 											</p>
 										</div>
 									</div>
@@ -100,7 +100,7 @@ document.write(`
 											<h4 class="vlt-services__title"><a href="service-single.html"><span class="vlt-highlight">BOT模式及校本課程</span></a>
 											</h4>
 											<p class="vlt-services__text">
-											Printact 首創以BOT模式與不同院校合作，以3個階段: 
+											除了公開課程外，Printact 首創以BOT模式與不同院校合作，以3個階段: 
 											<br> 1). Build （定制） 以我們的模組作為骨幹替院校定制校本課程
 											<br> 2). Operate （運作） 我們到校/線上教授課程 或者 訓練院校老師去教授我們提供的課程
 											<br> 3). Transfer （轉移） 指定運作時間後，我們可以轉移已定制校本課程給院校。
