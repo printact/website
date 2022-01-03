@@ -49,9 +49,7 @@ document.write(`
 									
 
 									<!--Animation Block-->
-									<div class="vlt-animation-block" data-aos="fade" data-aos-delay="500">
-										<!--Button--><a class="vlt-btn vlt-btn--primary vlt-btn--md vlt-btn--effect" href="contact-us-01.html" target="_self"><span>Contact Us</span></a>
-									</div>
+
 								</div>
 								<div class="vlt-gap-60--sm"></div>
 							</div>
