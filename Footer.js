@@ -19,7 +19,7 @@ document.write(`
 									<li><a href="index.html">首頁</a></li>
 									<li><a href="team.html">博士團隊</a></li>
 									<!-- <li><a href="#">成人課程</a></li> -->
-									<li><a href="curriculum.html">線上及到校課程</a></li>
+									<li><a href="curriculum.html">線上、實體、到校及公開課程</a></li>
 									<li><a href="IT-lab.html">中學IT創新實驗室</a></li>
 									<li><a href="#">零式科學</a></li>
 									<li><a href="#">自造者學院</a></li>
