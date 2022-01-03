@@ -21,9 +21,9 @@ document.write(`
 									<!-- <li><a href="#">成人課程</a></li> -->
 									<li><a href="curriculum.html">線上、實體、到校及公開課程</a></li>
 									<li><a href="IT-lab.html">中學IT創新實驗室</a></li>
-									<li><a href="#">零式科學</a></li>
-									<li><a href="#">自造者學院</a></li>
-									<li><a href="#">深科技學校</a></li>
+									<li><a href="https://0x2A.science">零式科學</a></li>
+									<li><a href="http://makertech.academy">自造者學院</a></li>
+									<li><a href="http://deeptech.school">深科技學校</a></li>
 								</ul>
 							</div>
 						</div>
