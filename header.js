@@ -9,7 +9,7 @@ document.write(`
 						<div class="container">
 							<div class="vlt-navbar-inner">
 								<div class="vlt-navbar-inner--left">
-									<!--Logo--><a class="vlt-navbar-logo" href="index.html"><img class="black" src="assets/img/root/logo--default-black.png" alt="" style="height: 18px;"><img class="white" src="assets/img/printact_logo_new-white.png" alt="" style="height: 18px;"></a>
+									<!--Logo--><a class="vlt-navbar-logo" href="index.html"><img class="black" src="assets/img/logo/logo.png" alt="BioX" style="height: 18px;"><img class="white" src="assets/img/logo/logo.png" alt="BioX" style="height: 18px;"></a>
 								</div>
 								<div class="vlt-navbar-inner--right">
 									<div class="d-flex align-items-center">
@@ -45,7 +45,7 @@ document.write(`
 														</li>
 													</ul>
 												</li> -->
-												<li class="menu-item"><a href="team.html"><span>博士團隊</span></a>
+												<li class="menu-item"><a href="team.html"><span>👨‍🔬 博士團隊</span></a>
 													<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
@@ -81,7 +81,7 @@ document.write(`
 													</ul>
 												</li>
 												-->
-												<li class="menu-item"><a href="curriculum.html"><span>課程</span></a>
+												<li class="menu-item"><a href="curriculum.html"><span>📚 課程</span></a>
 												<!--		<ul class="sub-menu">
  														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
@@ -102,7 +102,7 @@ document.write(`
 
 													</ul> -->
 												</li>
-												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
+												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>🧪 零式科學</span></a>
 
 													<!--
 													<ul class="sub-menu">
@@ -122,7 +122,7 @@ document.write(`
 													-->
 													
 												</li>
-												<li class="menu-item"><a href="Maker.html"><span>自造者學院</span></a>
+												<li class="menu-item"><a href="Maker.html"><span>🛠️ 自造者學院</span></a>
 												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>基本工程學</span></a>
@@ -169,7 +169,7 @@ document.write(`
 													</ul>
 													-->
 												</li>
-												<li class="menu-item-has-children"><a href="DeepTech.html"><span>深科技學校</span></a>
+												<li class="menu-item-has-children"><a href="DeepTech.html"><span>🚀 深科技學校</span></a>
 												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="about-us-01.html"><span>A - 人工智能 🤖 </span></a>
@@ -249,44 +249,7 @@ document.write(`
 													</ul>
 												-->
 												</li>
-												<li class="menu-item"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
-
-												<!--
-													<ul class="sub-menu">
-														<li class="menu-item-has-children left"><a href="portfolio-01.html"><span>Layouts</span></a>
-															<ul class="sub-menu">
-																<li><a href="portfolio-01.html"><span>STEM 課程</span></a>
-																</li>
-																<li><a href="portfolio-02.html"><span>STEM 產品及器材</span></a>
-																</li>
-																<li><a href="portfolio-03.html"><span>STEM Room 設計</span></a>
-																</li>
-																<li><a href="portfolio-03.html"><span>STEM 指導及配套</span></a>
-																</li>
-															</ul>
-														</li>
-														<li class="menu-item-has-children left"><a href="single-work-01.html"><span>Single Work</span></a>
-															<ul class="sub-menu">
-																<li><a href="single-work-01.html"><span>Style 01</span></a>
-																</li>
-																<li><a href="single-work-02.html"><span>Style 02</span></a>
-																</li>
-																<li><a href="single-work-03.html"><span>Style 03</span></a>
-																</li>
-																<li><a href="single-work-04.html"><span>Style 04</span></a>
-																</li>
-																<li><a href="single-work-05.html"><span>Style 05</span></a>
-																</li>
-																<li><a href="single-work-06.html"><span>Style 06</span></a>
-																</li>
-																<li><a href="single-work-07.html"><span>Style 07</span></a>
-																</li>
-															</ul>
-														</li>
-													</ul>
-												</li>
-
-												-->
+												<!-- IT-lab menu item removed -->
 
 												<!-- <li class="menu-item-has-children"><a href="#"><span>Blog</span></a>
 													<ul class="sub-menu">
@@ -380,6 +343,8 @@ document.write(`
 												</li> -->
 											</ul>
 										</nav>
+										<!-- Language Toggle -->
+										<a id="lang-toggle" class="vlt-btn vlt-btn--sm" href="#" onclick="toggleLanguage(); return false;" style="margin-left: 20px; padding: 5px 15px; border: 1px solid currentColor; border-radius: 3px; font-size: 14px; text-decoration: none;">En</a>
 										<!-- <a class="vlt-menu-shop-cart" href="shop-cart.html"><i class="leedo-paper-bag"></i><span>0</span></a> -->
 									</div>
 								</div>
@@ -397,10 +362,11 @@ document.write(`
 							<div class="vlt-navbar-inner no-gutters">
 								<div class="col text-left"><a class="vlt-menu-burger" href="#" id="vlt-mobile-menu-toggle"><span class="line line-one"><span></span></span><span class="line line-two"><span></span></span><span class="line line-three"><span></span></span></a></div>
 								<div class="col text-center">
-									<!--Logo--><a class="vlt-navbar-logo" href="index.html"><img src="assets/img/printact_logo_new-black.png" alt="" style="height: 26px;"></a>
+									<!--Logo--><a class="vlt-navbar-logo" href="index.html"><img src="assets/img/logo/logo.png" alt="BioX" style="height: 26px;"></a>
 								</div>
 								<div class="col text-right">
-									<!-- <a class="vlt-menu-shop-cart" href="shop-cart.html"><i class="leedo-paper-bag"></i><span>0</span></a> -->
+									<!-- Language Toggle for Mobile -->
+									<a id="lang-toggle-mobile" class="vlt-btn vlt-btn--sm" href="#" onclick="toggleLanguage(); return false;" style="padding: 5px 10px; border: 1px solid #333; border-radius: 3px; font-size: 12px; text-decoration: none; color: #333;">En</a>
 								</div>
 							</div>
 						</div>
@@ -443,7 +409,7 @@ document.write(`
 								</li>
 							-->
 
-								<li class="menu-item"><a href="team.html"><span>博士團隊</span></a>
+								<li class="menu-item"><a href="team.html"><span>👨‍🔬 博士團隊</span></a>
 									
 									<!--
 									<ul class="sub-menu">
@@ -480,7 +446,7 @@ document.write(`
 									</ul>
 								</li>
 								-->
-								<li class="menu-item"><a href="curriculum.html"><span>課程</span></a>
+								<li class="menu-item"><a href="curriculum.html"><span>📚 課程</span></a>
 								<!-- 					<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>About Us</span></a>
 															<ul class="sub-menu">
@@ -501,7 +467,7 @@ document.write(`
 
 													</ul> -->
 												</li>
-												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>零式科學</span></a>
+												<li class="menu-item"><a href="http://0x2A.science" target="_blank"><span>🧪 零式科學</span></a>
 												
 												<!--
 												<ul class="sub-menu">
@@ -522,7 +488,7 @@ document.write(`
 												-->
 											</li>
 
-											<li class="menu-item"><a href="Maker.html"><span>自造者學院</span></a>
+											<li class="menu-item"><a href="Maker.html"><span>🛠️ 自造者學院</span></a>
 											<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children"><a href="about-us-01.html"><span>基本工程學</span></a>
@@ -569,7 +535,7 @@ document.write(`
 													-->
 												</li>
 
-												<li class="menu-item"><a href="DeepTech.html"><span>深科技學校</span></a>
+												<li class="menu-item"><a href="DeepTech.html"><span>🚀 深科技學校</span></a>
 												<!--
 													<ul class="sub-menu">
 														<li class="menu-item-has-children left"><a href="about-us-01.html"><span>A - 人工智能 🤖 </span></a>
@@ -651,44 +617,7 @@ document.write(`
 												-->
 												</li>
 
-												<li class="menu-item"><a href="IT-lab.html"><span>中學IT創新實驗室 👩‍🔬 </span></a>
-													
-												<!--
-													<ul class="sub-menu">
-														<li class="menu-item-has-children left"><a href="portfolio-01.html"><span>Layouts</span></a>
-															<ul class="sub-menu">
-																<li><a href="portfolio-01.html"><span>STEM 課程</span></a>
-																</li>
-																<li><a href="portfolio-02.html"><span>STEM 產品及器材</span></a>
-																</li>
-																<li><a href="portfolio-03.html"><span>STEM Room 設計</span></a>
-																</li>
-																<li><a href="portfolio-03.html"><span>STEM 指導及配套</span></a>
-																</li>
-															</ul>
-														</li>
-														<li class="menu-item-has-children left"><a href="single-work-01.html"><span>Single Work</span></a>
-															<ul class="sub-menu">
-																<li><a href="single-work-01.html"><span>Style 01</span></a>
-																</li>
-																<li><a href="single-work-02.html"><span>Style 02</span></a>
-																</li>
-																<li><a href="single-work-03.html"><span>Style 03</span></a>
-																</li>
-																<li><a href="single-work-04.html"><span>Style 04</span></a>
-																</li>
-																<li><a href="single-work-05.html"><span>Style 05</span></a>
-																</li>
-																<li><a href="single-work-06.html"><span>Style 06</span></a>
-																</li>
-																<li><a href="single-work-07.html"><span>Style 07</span></a>
-																</li>
-															</ul>
-														</li>
-													</ul>
-												</li>
-
-												-->
+												<!-- IT-lab menu item removed from mobile nav -->
 
 <!-- 								<li class="menu-item-has-children left"><a href="#"><span>Shop</span></a>
 									<ul class="sub-menu">

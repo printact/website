@@ -15,7 +15,7 @@ document.write(`
 									</div>
 
 									<div>
-									<h4>Printact 擁有十多名創科專家及導師，合共擁有超過15年STEM，創科，中小學及高等教育的經驗。
+									<h4>BioX 擁有十多名創科專家及導師，合共擁有超過15年STEM，創科，中小學及高等教育的經驗。
 									</h4>
 									</div>
 							
@@ -91,7 +91,7 @@ document.write(`
 											<h4>Mr. Law
 											</h4>
 											<p>物理學碩士<br>
-											從事創科教育工作超過4年，精通數個電腦編程語言例如：Swift, Javascript, Python等，擔任Printact的資訊科技總監，及監修所有與電腦編程相關的課程教材。
+											從事創科教育工作超過4年，精通數個電腦編程語言例如：Swift, Javascript, Python等，擔任BioX的資訊科技總監，及監修所有與電腦編程相關的課程教材。
 											</p>
 										</div>
 									</div>
